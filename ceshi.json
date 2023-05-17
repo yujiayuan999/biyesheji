@@ -1,0 +1,846 @@
+{
+    "nodes": [
+        {
+            "id": "HERB000388",
+            "name": "北马兜灵",
+            "symbolSize": 50,
+            "category": 0
+        },
+        {
+            "id": "HBIN034220",
+            "name": "HBIN034220",
+            "symbolSize": 30,
+            "category": 1
+        },
+        {
+            "id": "HBIN034216",
+            "name": "HBIN034216",
+            "symbolSize": 30,
+            "category": 2
+        },
+        {
+            "id": "HBIN018278",
+            "name": "HBIN018278",
+            "symbolSize": 30,
+            "category": 3
+        },
+            {
+            "id": "DPP4",
+            "name": "DPP4",
+            "symbolSize": 10,
+            "category": 1
+        },
+            {
+            "id": "GABRA1",
+            "name": "GABRA1",
+            "symbolSize": 10,
+            "category": 1
+        },
+            {
+            "id": "GRIA2",
+            "name": "GRIA2",
+            "symbolSize": 10,
+            "category": 1
+        },
+            {
+            "id": "PIM1",
+            "name": "PIM1",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "OPRD1",
+            "name": "OPRD1",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "NCOA2",
+            "name": "NCOA2",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "CCNA2",
+            "name": "CCNA2",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "ESR2",
+            "name": "ESR2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "KCNH2",
+            "name": "KCNH2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "RXRA",
+            "name": "RXRA",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "NCOA1",
+            "name": "NCOA1",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "CHRM1",
+            "name": "CHRM1",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "PRSS1",
+            "name": "PRSS1",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "NOS2",
+            "name": "NOS2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "CA2",
+            "name": "CA2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "DPP4",
+            "name": "DPP4",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "PTGS2",
+            "name": "PTGS2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "OPRM1",
+            "name": "OPRM1",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "PTGS1",
+            "name": "PTGS1",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "ESR1",
+            "name": "ESR1",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "CHEK1",
+            "name": "CHEK1",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "AR",
+            "name": "AR",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "GSK3B",
+            "name": "GSK3B",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "SCN5A",
+            "name": "SCN5A",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "ADRB2",
+            "name": "ADRB2",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "ADRA1B",
+            "name": "ADRA1B",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "CDK2",
+            "name": "CDK2",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "CHRM3",
+            "name": "CHRM3",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "NR1I2",
+            "name": "NR1I2",
+            "symbolSize": 10,
+            "category": 2
+        },
+              {
+            "id": "ACHE",
+            "name": "ACHE",
+            "symbolSize": 10,
+            "category": 2
+        },
+            {
+            "id": "ADRA1D",
+            "name": "ADRA1D",
+            "symbolSize": 10,
+            "category": 2
+        },
+        {
+            "id": "BAX",
+            "name": "BAX",
+            "symbolSize": 10,
+            "category": 3
+        },
+        {
+        "id": "BCL2",
+        "name": "BCL2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CASP3",
+        "name": "CASP3",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CASP8",
+        "name": "CASP8",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CASP9",
+        "name": "CASP9",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "JUN",
+        "name": "JUN",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "MAP2",
+        "name": "MAP2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PON1",
+        "name": "PON1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PRKCA",
+        "name": "PRKCA",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "TGFB1",
+        "name": "TGFB1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "ACHE",
+        "name": "ACHE",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CHRM4",
+        "name": "CHRM4",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "DRD1",
+        "name": "DRD1",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+            "id": "NR3C1",
+            "name": "NR3C1",
+            "symbolSize": 10,
+            "category": 3
+        },
+        {
+        "id": "CHRM1",
+        "name": "CHRM1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "NCOA2",
+        "name": "NCOA2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "DPP4",
+        "name": "DPP4",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CHRNA2",
+        "name": "CHRNA2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CHRNA7",
+        "name": "CHRNA7",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "GSK3B",
+        "name": "GSK3B",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CCNA2",
+        "name": "CCNA2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "SCN5A",
+        "name": "SCN5A",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "CHRM3",
+        "name": "CHRM3",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PDE3A",
+        "name": "PDE3A",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PGR",
+        "name": "PGR",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CDK2",
+        "name": "CDK2",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "CA2",
+        "name": "CA2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "ESR1",
+        "name": "ESR1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PPARG",
+        "name": "PPARG",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PRSS1",
+        "name": "PRSS1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "ADRB2",
+        "name": "ADRB2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "AR",
+        "name": "AR",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "NOS2",
+        "name": "NOS2",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "PTGS1",
+        "name": "PTGS1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "PIM1",
+        "name": "PIM1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "DPEP1",
+        "name": "DPEP1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CHEK1",
+        "name": "CHEK1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "GABRA1",
+        "name": "GABRA1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "SLC6A4",
+        "name": "SLC6A4",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "PTGS2",
+        "name": "PTGS2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "NR3C2",
+        "name": "NR3C2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "OPRM1",
+        "name": "OPRM1",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "MAPK14",
+        "name": "MAPK14",
+        "symbolSize": 10,
+        "category": 3
+    },
+        {
+        "id": "ADRA1B",
+        "name": "ADRA1B",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "KCNH2",
+        "name": "KCNH2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "CHRM2",
+        "name": "CHRM2",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "ADRA1D",
+        "name": "ADRA1D",
+        "symbolSize": 10,
+        "category": 3
+    },
+    {
+        "id": "ESR2",
+        "name": "ESR2",
+        "symbolSize": 10,
+        "category": 3
+    }
+    ],
+    "links": [
+        {
+            "source": "HERB000388",
+            "target": "HBIN034220"
+        },
+         {
+            "source": "HERB000388",
+            "target": "HBIN034216"
+        },
+        {
+            "source": "HERB000388",
+            "target": "HBIN018278"
+        },
+        {
+            "source": "HBIN034220",
+            "target": "DPP4"
+        },
+        {
+            "source": "HBIN034220",
+            "target": "GABRA1"
+        },
+        {
+            "source": "HBIN034220",
+            "target": "GRIA2"
+        },
+        {
+            "source": "HBIN034216",
+            "target": "PIM1"
+        },
+         {
+             "source": "HBIN034216",
+             "target": "OPRD1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "NCOA2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CCNA2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ESR2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "KCNH2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "RXRA"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "NCOA1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CHRM1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "PRSS1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "NOS2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CA2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "DPP4"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "PTGS2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "OPRM1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "PTGS1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ESR1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CHEK1"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "AR"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "GSK3B"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "SCN5A"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ADRB2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ADRA1B"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CDK2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "CHRM3"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "NR1I2"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ACHE"
+             },
+             {
+             "source": "HBIN034216",
+             "target": "ADRA1D"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "BAX"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "BCL2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CASP3"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CASP8"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CASP9"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "JUN"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "MAP2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PON1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PRKCA"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "TGFB1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ACHE"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRM4"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "DRD1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "NR3C1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRM1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "NCOA2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "DPP4"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRNA2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRNA7"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "GSK3B"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CCNA2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "SCN5A"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRM3"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PDE3A"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PGR"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CDK2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CA2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ESR1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PPARG"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PRSS1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ADRB2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "AR"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "NOS2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PTGS1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PIM1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "DPEP1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHEK1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "GABRA1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "SLC6A4"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "PTGS2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "NR3C2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "OPRM1"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "MAPK14"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ADRA1B"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "KCNH2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "CHRM2"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ADRA1D"
+             },
+             {
+             "source": "HBIN018278",
+             "target": "ESR2"
+             }
+    ],
+    "categories": [
+        {
+            "name": "0"
+        },
+        {
+            "name": "1"
+        },
+        {
+            "name": "2"
+        },
+        {
+            "name": "3"
+        }
+    ]
+}
